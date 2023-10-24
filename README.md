@@ -4,7 +4,11 @@ A list of modifications made to the `GEOGloWS Hydrologic Model V2` S3 buckets sp
 
 - s3://geoglows-v2/CHANGELOG.md
 - Region: us-west-2
-- http://geoglows-v2.s3-website-us-west-2.amazonaws.com/ 
+- http://geoglows-v2.s3-website-us-west-2.amazonaws.com/
+
+## 2023-10-24
+
+1. Add license.md which contains the licensing statement for GEOGloWS V2 and all licenses and statements required by the open source data and software used by GEOGloWS V2.
 
 ## 2023-10-23
 
